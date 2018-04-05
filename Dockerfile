@@ -1,4 +1,4 @@
-FROM persapiens/oraclejdk:8u152
+FROM persapiens/oraclejdk:8u161
 MAINTAINER Marcelo Fernandes <persapiens@gmail.com>
 
 # install headless gui tools, firefox and create firefox folders
